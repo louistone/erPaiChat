@@ -1,0 +1,19 @@
+A Chat APP Deployed On Azure.
+
+
+
+
+local environment:
+1. $npm run build
+
+2. $npm start(open a new terminal)
+
+3. Open a browser: localhost:3000
+
+
+
+
+
+azure deployment:
+https://erpai.azurewebsites.net/messages
+
