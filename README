@@ -1,9 +1,8 @@
 A Chat APP Deployed On Azure.
 
-
-
-
 local environment:
+0. $npm install
+
 1. $npm run build
 
 2. $npm start(open a new terminal)
