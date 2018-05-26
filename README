@@ -14,5 +14,5 @@ local environment:
 
 
 azure deployment:
-https://erpai.azurewebsites.net/messages
+https://trailchat-angular.azurewebsites.net
 
